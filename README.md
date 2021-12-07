@@ -1,6 +1,6 @@
 <h1 align="center">Password Generator</h1>
 
-I was tasked to create a password generator in my class, "100 Days of Code: The Complete Python Pro Bootcamp for 2022" by Dr. Angela Wu. I am taking this Udemy class on the side of my official coursework at Western Governors University. This is day four of the class. 
+I was tasked to create a password generator in my class, "100 Days of Code: The Complete Python Pro Bootcamp for 2022" by Dr. Angela Wu. I am taking this Udemy class on the side of my official coursework at Western Governors University. This is day five of the class. 
 
 <h2>I was to focus on using the following concepts that I learned today.</h2>
 
